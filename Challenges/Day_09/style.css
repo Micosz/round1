@@ -1,5 +1,5 @@
 body{
-  background-color:pink;
+  background-color: aliceblue;
   height: 100vh;
   display: flex;
   align-items: center;
@@ -7,7 +7,7 @@ body{
 }
 
 .card{
-  background-color: #38BEDC;
+  background-color: black;
   display: flex;
   position: relative;
   overflow: hidden;
@@ -30,7 +30,7 @@ body{
 .bar{
   position: absolute;
   width: 100px;
-  height: 4px;
+  height: 100px;
   background-color: red;
   bottom: 0;
   left: -100px;
